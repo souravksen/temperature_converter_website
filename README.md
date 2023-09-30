@@ -1,2 +1,2 @@
 # temperature_converter_website
-i developed this portforio website using html,css and javaScript
+i developed this temperature converter website using html,css and javaScript
